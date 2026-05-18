@@ -1,0 +1,7 @@
+
+
+public class ProductoDTO {
+    private String nombre;
+    private Double precio;
+    private Long categoriaId;
+}
